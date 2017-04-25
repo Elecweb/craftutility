@@ -10,6 +10,7 @@ Thumbs.db
 *.d.ts
 
 /lib/*
+/example/*
 
 .vscode/*
 !.vscode/settings.json
