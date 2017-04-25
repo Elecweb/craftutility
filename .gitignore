@@ -9,7 +9,7 @@ Thumbs.db
 *.map
 *.d.ts
 
-./lib
+/lib/*
 
 .vscode/*
 !.vscode/settings.json
